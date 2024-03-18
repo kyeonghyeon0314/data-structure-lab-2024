@@ -16,5 +16,5 @@ void main()
 	int score[5] = {1,10,2,4,5 };
 	int out;  // 출력 정수
 	out = findArrayMax(score, 5);
-	printf("result = %d", out);
+	printf("result = %d", out);    // 주석 추가
 }
