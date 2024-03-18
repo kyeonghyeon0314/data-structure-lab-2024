@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\test(2)\\Chap01_DS_algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1405DDC4-3BC3-4858-B815-86610E448373}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\USER\\Documents\\test(2)\\Chap01_DS_algorithm\\HelloWorld\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1405DDC4-3BC3-4858-B815-86610E448373}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E57C2D49-9CA6-4A90-98F6-E51597F99B8C}|Chap01_Findmax\\Chap01_Findmax.vcxproj|C:\\Users\\USER\\Documents\\test(2)\\Chap01_DS_algorithm\\Chap01_Findmax\\find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E57C2D49-9CA6-4A90-98F6-E51597F99B8C}|Chap01_Findmax\\Chap01_Findmax.vcxproj|solutionrelative:Chap01_Findmax\\find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1405DDC4-3BC3-4858-B815-86610E448373}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\USER\\Documents\\test(2)\\Chap01_DS_algorithm\\HelloWorld\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1405DDC4-3BC3-4858-B815-86610E448373}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\uC18C\uC2A4.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\test(2)\\Chap01_DS_algorithm\\HelloWorld\\\uC18C\uC2A4.cpp",
-              "RelativeDocumentMoniker": "HelloWorld\\\uC18C\uC2A4.cpp",
-              "ToolTip": "C:\\Users\\USER\\Documents\\test(2)\\Chap01_DS_algorithm\\HelloWorld\\\uC18C\uC2A4.cpp",
-              "RelativeToolTip": "HelloWorld\\\uC18C\uC2A4.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Title": "find_max.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\test(2)\\Chap01_DS_algorithm\\Chap01_Findmax\\find_max.cpp",
+              "RelativeDocumentMoniker": "Chap01_Findmax\\find_max.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\test(2)\\Chap01_DS_algorithm\\Chap01_Findmax\\find_max.cpp",
+              "RelativeToolTip": "Chap01_Findmax\\find_max.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T02:07:21.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hello_world.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\test(2)\\Chap01_DS_algorithm\\HelloWorld\\hello_world.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\hello_world.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\test(2)\\Chap01_DS_algorithm\\HelloWorld\\hello_world.cpp",
+              "RelativeToolTip": "HelloWorld\\hello_world.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-13T02:00:28.411Z",
               "EditorCaption": ""
